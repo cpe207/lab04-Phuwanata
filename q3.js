@@ -8,7 +8,7 @@ function primeNumber(a) {
     if (x > 0)
         return "NO";
     else
-        return "yes";
+        return "YES";
 }
 var d1 = 10;
 var d2 = 29;

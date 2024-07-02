@@ -7,7 +7,7 @@ function primeNumber(a) {
    
 }
 if(x>0) return "NO";
-else return "yes";
+else return "YES";
 }
 const d1 = 10;
 const d2 = 29;
